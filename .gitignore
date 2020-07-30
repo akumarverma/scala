@@ -1,0 +1,6 @@
+/src/com/akv/projects/**
+*.conf
+*.txt
+/resources/**
+/out/**
+**.class

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="bonecp-0.8.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jar_files/bonecp-0.8.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/guava-15.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/slf4j-api-1.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
